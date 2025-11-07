@@ -7,7 +7,8 @@ This project helped me practice building a full-stack app from scratch — front
 
 ## 🚀 Live Demo
 
-* **Frontend:** [https://playful-stroopwafel-003bfd.netlify.app](https://playful-stroopwafel-003bfd.netlify.app)
+* **Frontend:** [https://taskmanager-hemanth.netlify.app](https://taskmanager-hemanth.netlify.app)
+
 * **Backend (API):** [https://task-manager-api-sfc8.onrender.com](https://task-manager-api-sfc8.onrender.com)
 
 > The frontend and backend are fully deployed and connected — tasks sync live between both.
